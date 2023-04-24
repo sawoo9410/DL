@@ -6,6 +6,12 @@
 #### dataset
 day1 003 - https://drive.google.com/file/d/1BYNogJCivhGJSfBfnUdQWPi0b6w48wNO/view?usp=share_link
 
+## Day2
+#### required file
+day2 003 sementic segmentation - https://drive.google.com/file/d/1y2q1_z9-iNuIxpowYvGXE7AB0gmEO3wg/view?usp=share_link
+
+#### dataset
+day2 002 object detection(yolo-v5) - https://drive.google.com/file/d/11ZvjTUnWulOmfgjQgdmYUiqxxVwu6D4_/view?usp=share_link
 
 ## Day4
 #### dataset
